@@ -8,7 +8,8 @@ Crear un proyecto de Node.js que utilice el módulo externo logplease para mostr
 ## Ejercicio 3
 Crear un proyecto de Node.js con una función que determine si un número es par, y mostrar mensajes usando el módulo logplease.
 
-## Instalación de Dependencias: Recuerda usar npm install después de clonar el proyecto para instalar las dependencias necesarias.
+## Instalación de Dependencias:
+Recuerda usar npm install después de clonar el proyecto para instalar las dependencias necesarias.
 Estructura de Carpetas: Cada ejercicio está organizado en su propia carpeta (ej1, ej2, ej3).
 
 ## KarenSalazar
